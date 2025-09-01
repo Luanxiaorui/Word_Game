@@ -1,0 +1,3 @@
+# tkinter为标准库，无需额外安装
+# 如需打包为exe，可用pyinstaller
+pyinstaller 
