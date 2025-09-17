@@ -11,7 +11,7 @@ import os
 # 添加当前目录到Python路径
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from ui import WordGameUI
+from toolkit.ui import WordGameUI
 
 def main():
     """主函数"""

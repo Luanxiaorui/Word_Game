@@ -38,4 +38,4 @@ def main(input_file, output_file):
         sys.exit(1)
 
 if __name__ == "__main__":
-    main("wordlib/考研_init.txt", "wordlib/考研.txt")
+    main("wordlib/考研_init.txt", "../wordlib/考研.txt")

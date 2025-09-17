@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 from typing import List, Tuple
-from core import WordGame
+from toolkit.core import WordGame
 
 class WordGameUI:
     """英语单词猜词游戏界面"""

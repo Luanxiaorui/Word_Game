@@ -1,3 +1,6 @@
-# tkinter为标准库，无需额外安装
+# 项目依赖说明
+# 本项目仅使用Python标准库，无第三方依赖
+# 推荐使用Python 3.6及以上版本运行
+
 # 如需打包为exe，可用pyinstaller
 pyinstaller 

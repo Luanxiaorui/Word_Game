@@ -5,3 +5,4 @@ test_game.py
 /.idea
 /.venv
 /__pycache__
+/toolkit/__pycache__
