@@ -1,2 +1,7 @@
 /dist
 /build
+build.py
+test_game.py
+/.idea
+/.venv
+/__pycache__
